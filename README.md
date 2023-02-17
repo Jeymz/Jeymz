@@ -26,7 +26,7 @@ My career path in IT has been an interesting and fun journey. I have always been
 ## Technologies
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width=30>]()
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width=30>]()
+[<img src="./src/assets/images/mssql.svg" width=30>]()
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width=30>]()
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width=30>]()
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width=30>]()
@@ -38,9 +38,11 @@ My career path in IT has been an interesting and fun journey. I have always been
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width=30>]()
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width=30>]()
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" width=30>]()
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original-wordmark.svg" width=30>]()
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width=30>]()
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width=30>]()
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width=30>]()
+[<img src="./src/assets/images/proxmox.svg" width=30>]()
 
 ## I wear a lot of hats
 - IT Helpdesk
@@ -67,6 +69,7 @@ My career path in IT has been an interesting and fun journey. I have always been
 [![](./src/assets/images/github.svg)](https://github.com/Jeymz)
 [![](./src/assets/images/linkedin.svg)](https://www.linkedin.com/in/jameslmsimmons/)
 [![](./src/assets/images/twitter.svg)](https://twitter.com/JeymzSimmons)
+[![](./src/assets/images/news.svg)](https://www.google.com/collections/s/list/yB_myI2dT7-eJPRJrDOHSw/-kiWqMj0tcw)
 
 ## Metrics
 ![Jeymz's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeymz&theme=dark&show_icons=true)]
