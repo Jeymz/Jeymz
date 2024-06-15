@@ -48,7 +48,9 @@ My career path in IT has been an interesting and fun journey. I have always been
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width=30>]()
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width=30>]()
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width=30>]()
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width=30>]()
 [<img src="./src/assets/images/proxmox.svg" width=30>]()
+
 
 ## I wear a lot of hats
 - IT Helpdesk
