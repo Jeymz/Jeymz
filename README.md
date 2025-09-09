@@ -21,6 +21,8 @@ My career path in IT has been an interesting and fun journey. I have always been
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width=30>]()
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width=30>]()
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width=30>]()
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" width=30>]()
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=30>]()
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" width=30>]()
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width=30>]()
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width=30>]()
@@ -70,6 +72,7 @@ My career path in IT has been an interesting and fun journey. I have always been
 - OWASP
 - IAM (OAuth / OIDC)
 - Open Source
+- MCP
 
 ## Links
 [<img src="./src/assets/images/robotti-gitlab.svg" height=48>](https://git.robotti.io/jeymz)
@@ -77,7 +80,7 @@ My career path in IT has been an interesting and fun journey. I have always been
 [![](./src/assets/images/github.svg)](https://github.com/Jeymz)
 [![](./src/assets/images/linkedin.svg)](https://www.linkedin.com/in/jameslmsimmons/)
 [![](./src/assets/images/twitter.svg)](https://twitter.com/JeymzSimmons)
-[![](./src/assets/images/news.svg)](https://www.google.com/collections/s/list/yB_myI2dT7-eJPRJrDOHSw/-kiWqMj0tcw)
+[![](./src/assets/images/news.svg)](https://robotti.io/news)
 
 ## Metrics
 ![Jeymz's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeymz&theme=dark&show_icons=true)]
