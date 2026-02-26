@@ -82,10 +82,6 @@ My career path in IT has been an interesting and fun journey. I have always been
 [![](./src/assets/images/twitter.svg)](https://twitter.com/JeymzSimmons)
 [![](./src/assets/images/news.svg)](https://robotti.io/news)
 
-## Metrics
-![Jeymz's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeymz&theme=dark&show_icons=true)]
-
 ### Special thanks to
 *[Icons8](https://icons8.com) & [Devicon](https://devicon.dev) for the awesome icons*<br>
 *[Creavite](https://auto.creavite.co/) for the excellent banner*<br>
-*[Anuraghazra](https://github.com/anuraghazra/github-readme-stats) for the awesome GitHub stats / metrics*
